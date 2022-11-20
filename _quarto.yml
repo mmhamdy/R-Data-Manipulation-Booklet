@@ -8,7 +8,12 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - firstlook.qmd
+    - subset.qmd
+    - transform.qmd
+    - aggregate.qmd
+    - reshape.qmd
+    - merge.qmd
     - references.qmd
 
 bibliography: references.bib
